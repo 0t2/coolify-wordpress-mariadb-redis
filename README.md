@@ -8,7 +8,6 @@ I made adjustments based on this [file](https://github.com/coollabsio/coolify/bl
 Please go to **Shared variables** => Add the required shared variables.  
 For example, add them to **Project wide** and set the corresponding **Value**.  
 
-### shared-variables.png
 ![shared-variables](imgs/shared-variables.png)
 
 Next, after adding a resource with **Add Resource**, do not rush to click **Deploy**.  
@@ -19,5 +18,7 @@ For example,
 - `{{project.SERVICE_PASSWORD_WORDPRESS}}`  
 - `{{project.SERVICE_USER_WORDPRESS}}`  
 
-### environment-variables.png
 ![environment-variables](imgs/environment-variables.png)
+
+## WordPress
+![wordpress-redis-object-cache](imgs/wordpress-redis-object-cache.png)
