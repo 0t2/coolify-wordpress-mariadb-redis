@@ -1,0 +1,1 @@
+# coolify-wordpress-mariadb-redis
