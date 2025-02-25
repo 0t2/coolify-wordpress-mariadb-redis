@@ -1,8 +1,14 @@
-# Simple way: using docker-compose-dockerfile_inline.yaml
+# Simple way:
+## [Without PhpRedis](https://wordpress.org/support/topic/do-i-have-to-install-php-redis-and-redis-both-together/)
+> Thanks to @Sander in Discord.
 
-| Thanks to @lestradioto for the valuable suggestions!
+Copy the content of `docker-compose-without-phpredis.yaml`, then directly create the resource through `Docker Compose Empty` to deploy and use it.
 
-Copy the content of docker-compose-dockerfile_inline.yaml, then directly create the resource through `Docker Compose Empty` to deploy and use it.
+## With PhpRedis
+
+> Thanks to [@LEstradioto](https://github.com/lestradioto) for the valuable suggestions!
+
+Copy the content of `docker-compose-dockerfile_inline.yaml`, then directly create the resource through `Docker Compose Empty` to deploy and use it.
 
 # Complex way: using docker-compose.yaml
 ## ***Please fork this project before using it.***
