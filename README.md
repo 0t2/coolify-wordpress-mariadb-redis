@@ -1,6 +1,12 @@
-# ***Please fork this project before using it.***
+# Simple way: using docker-compose-dockerfile_inline.yaml
 
-## docker-compose.yaml
+| Thanks to @lestradioto for the valuable suggestions!
+
+Copy the content of docker-compose-dockerfile_inline.yaml, then directly create the resource through `Docker Compose Empty` to deploy and use it.
+
+# Complex way: using docker-compose.yaml
+## ***Please fork this project before using it.***
+
 I made adjustments based on this [file](https://github.com/coollabsio/coolify/blob/de299839f4b9ba02df237fa05169909a3815f568/templates/compose/wordpress-with-mariadb.yaml).
 
 ## [Environment Variables](https://coolify.io/docs/knowledge-base/environment-variables#shared-variables)
