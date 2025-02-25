@@ -1,4 +1,4 @@
-# coolify-wordpress-mariadb-redis
+# ***Please fork this project before using it.***
 
 ## docker-compose.yaml
 I made adjustments based on this [file](https://github.com/coollabsio/coolify/blob/de299839f4b9ba02df237fa05169909a3815f568/templates/compose/wordpress-with-mariadb.yaml).
@@ -20,5 +20,6 @@ For example,
 
 ![environment-variables](imgs/environment-variables.png)
 
-## WordPress
+## WordPress Redis Object Cache
+![wordpress-redis-object-cache-disabled](imgs/wordpress-redis-object-cache-disabled.png)
 ![wordpress-redis-object-cache](imgs/wordpress-redis-object-cache.png)
